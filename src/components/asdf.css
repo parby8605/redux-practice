@@ -6,6 +6,7 @@
   margin: 4px;
   background-color: gray;
   color: white;
+  border-radius: 10px;
 }
 
 .inside {
@@ -16,6 +17,7 @@
   margin: 4px;
   background-color: rgb(236, 236, 236);
   color: black;
+  border-radius: 10px;
 }
 
 .deepside {
@@ -25,6 +27,7 @@
   align-items: center;
   margin: 4px;
   background-color: white;
+  border-radius: 10px;
 }
 
 .deepside button {
